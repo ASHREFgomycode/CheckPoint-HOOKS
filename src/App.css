@@ -1,0 +1,28 @@
+.ListMovies{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.buttMoreGREEN{
+color: green;
+    border: none;
+    background-color: white;
+    font-weight: bold;
+}
+
+.buttMoreRED{
+    color: red;
+        border: none;
+        background-color: white;
+        font-weight: bold;
+    }
+    
+    
+    
+    .filterAdd{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        margin: 15px    ;
+    }
